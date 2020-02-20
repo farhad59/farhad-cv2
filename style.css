@@ -1,0 +1,77 @@
+body{
+color: black;
+margin-left: 15%;
+margin-right: 15%;
+font-size: 18px;
+background-color: azure;
+}
+
+h1{
+    font-size: 1.5em;;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding-right: 10px;    
+}
+
+.myPicDiv{
+    height: 340px;
+    width: 300px;
+    text-align: center;
+    padding-left: 80px;
+    
+}
+
+.myPic {
+    height: 90%;
+    width: 80%;
+    border-radius: 50%;
+    
+    
+
+    
+}
+
+
+.boldMiddle {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.boldLeft {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.boldTitle {
+font-weight: bold;
+
+}
+
+.thColor {
+    background-color: silver;
+}
+
+.hrStyle{
+    margin-top: 3px;
+    margin-bottom: 3px;
+   border: 1px solid green;
+}
+
+#signHR{
+    border: 1px solid black;
+    margin-left: 0%;
+    margin-right: 85%;
+}
